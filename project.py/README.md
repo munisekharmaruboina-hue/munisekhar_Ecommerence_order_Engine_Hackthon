@@ -77,3 +77,14 @@ This is a **Python-based e-commerce backend simulation** that demonstrates the c
 ```bash
 git clone https://github.com/munisekharmaruboina-hue/munisekhar_Ecommerence_order_Engine_Hackthon.git
 cd project.py
+2. Create and activate a virtual environment (optional but recommended):
+ # Create virtual environment
+python -m venv .venv
+
+# Activate environment
+# Windows
+.venv\Scripts\activate
+# Linux/macOS
+source .venv/bin/activate
+3. Run the main script:
+python main.py
